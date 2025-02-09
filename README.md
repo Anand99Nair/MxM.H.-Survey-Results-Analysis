@@ -20,7 +20,6 @@ The objective of this project is to analyze the music listening habits of indivi
    - Pop, Rock, and Hip Hop emerged as the top three favorite genres among respondents, with significant variations in preferences based on age and region.
 
 ## Screenshots of the Dashboard 📊
-(Include screenshots of the key visualizations from your Power BI dashboard. Make sure to provide clear and annotated images showcasing the insights mentioned above.)
 
 ### Dashboard Page 1🎵
 ![Screenshot 2025-02-09 215937](https://github.com/user-attachments/assets/17e60c14-5d64-4bb6-b383-4b5277a86fd7)
