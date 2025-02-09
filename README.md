@@ -22,20 +22,14 @@ The objective of this project is to analyze the music listening habits of indivi
 ## Screenshots of the Dashboard 📊
 (Include screenshots of the key visualizations from your Power BI dashboard. Make sure to provide clear and annotated images showcasing the insights mentioned above.)
 
-### Dashboard Page 1: Overview of Music Preferences 🎵
-![Dashboard Page 1: Overview of Music Preferences](path_to_screenshot1.png)
+### Dashboard Page 1🎵
+![Screenshot 2025-02-09 215937](https://github.com/user-attachments/assets/17e60c14-5d64-4bb6-b383-4b5277a86fd7)
 
-### Dashboard Page 2: Impact of Music on Mental Health 🧘‍♀️🧘‍♂️
-![Dashboard Page 2: Impact of Music on Mental Health](path_to_screenshot2.png)
-
-### Dashboard Page 3: Streaming Service Usage and Listening Patterns 📱🎧
-![Dashboard Page 3: Streaming Service Usage and Listening Patterns](path_to_screenshot3.png)
+### Dashboard Page 2:🧘‍♀️🧘‍♂️
+![Screenshot 2025-02-09 215957](https://github.com/user-attachments/assets/6ad75a7e-c435-4f87-aa38-cbefc02089db)
 
 ## Conclusion 🏁
 The project successfully highlights the intricate relationship between music listening habits and psychological effects. The findings suggest that music preferences and listening patterns vary significantly across different demographics, and music can play a positive role in mental health and well-being. The insights derived from this analysis can be valuable for music streaming platforms, mental health professionals, and individuals seeking to understand the impact of music on their lives. Further research can explore deeper connections and causations, providing more actionable recommendations.
-###
-![Screenshot 2025-02-09 215937](https://github.com/user-attachments/assets/17e60c14-5d64-4bb6-b383-4b5277a86fd7)
 
-###
-![Screenshot 2025-02-09 215957](https://github.com/user-attachments/assets/6ad75a7e-c435-4f87-aa38-cbefc02089db)
+
 
