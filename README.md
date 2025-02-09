@@ -24,7 +24,7 @@ The objective of this project is to analyze the music listening habits of indivi
 ### Dashboard Page 1🎵
 ![Screenshot 2025-02-09 215937](https://github.com/user-attachments/assets/17e60c14-5d64-4bb6-b383-4b5277a86fd7)
 
-### Dashboard Page 2:🧘‍♀️🧘‍♂️
+### Dashboard Page 2🧘‍♀️🧘‍♂️
 ![Screenshot 2025-02-09 215957](https://github.com/user-attachments/assets/6ad75a7e-c435-4f87-aa38-cbefc02089db)
 
 ## Conclusion 🏁
